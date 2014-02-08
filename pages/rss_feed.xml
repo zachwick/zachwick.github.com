@@ -4,17 +4,191 @@
  <title>ZachWick's Development Playground</title>
  <description>Compute free or die; Death is not the worst of evils.</description>
  <link>http://zachwick.xxx/index.html</link>
- <lastBuildDate>Fri, 07 Feb 2014 00:00:00 -0500 </lastBuildDate>
+ <lastBuildDate>Sat, 08 Feb 2014 10:00:00 -0500 </lastBuildDate>
  <pubDate>Fri, 07 Feb 2014 00:00:00 -0500 </pubDate>
  <ttl>1800</ttl>
  
  <item>
   <title>My Newest Dev Setup</title>
   <description>An update on the hardware that I do work on.</description>
-  <link>file:///home/zwick/Repos/zachwick.com/posts/my_newest_dev_setup.html</link>
+  <link>http://zachwick.xxx/posts/my_newest_dev_setup.html</link>
   <guid>21</guid>
   <pubDate>23 Dec 2013 00:00:00 -0500 </pubDate>
  </item>
- 
+
+ <item>
+  <title>My .XXX TLD</title>
+  <description>The reasons that I got (and use) a .xxx TLD</description>
+  <link>http://zachwick.xxx/posts/my_xxx_tld.html/</link>
+  <guid>20</guid>
+  <pubDate>04 Dec 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Switched to Colemak</title>
+  <description>Ditching Qwerty and instead using the Colemak layout.</description>
+  <link>http://zachwick.xxx/posts/switched_to_colemak.html</link>
+  <guid>19</guid>
+  <pubDate>03 Dec 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Moving On to New Projects</title>
+  <description>An update on what I am going to be doing professionally.</description>
+  <link>http://zachwick.xxx/posts/moving_on_to_new_projects.html</link>
+  <guid>18</guid>
+  <pubDate>23 Oct 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Emoji Support in Jabber.el</title>
+  <description>How to use emoji inside of Emacs Jabber (jabber.el).</description>
+  <link>http://zachwick.xxx/posts/emoji_support_in_emacs_jabber.html</link>
+  <guid>17</guid>
+  <pubDate>21 Oct 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Development is Art</title>
+  <description>Drawing parallels between art and development; Ce n'est pas un blog</description>
+  <link>http://zachwick.xxx/posts/development_is_art.html</link>
+  <guid>16</guid>
+  <pubDate>29 Aug 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>My Dream Workplace Culture</title>
+  <description>What I think needs to be part of a workplace culture.</description>
+  <link>http://zachwick.xxx/posts/my_dream_workplace_culture.html</link>
+  <guid>15</guid>
+  <pubDate>09 Aug 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>PyOhio 2013</title>
+  <description>A debrief on PyOhio 2013.</description>
+  <link>http://zachwick.xxx/posts/pyohio_2013.html</link>
+  <guid>14</guid>
+  <pubDate>05 Aug 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Google Glass Seems Awesome, But...</title>
+  <description>Why I think that Google Glass is a terrible thing for society.</description>
+  <link>http://zachwick.xxx/posts/google_glass_seems_awesome_but.html</link>
+  <guid>14</guid>
+  <pubDate>02 May 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>How to Install GNU Icecat on Debian Wheezy</title>
+  <description>The title says it all; how to install GNU Icecat on
+  Debian Wheezy.</description>
+  <link>http://zachwick.xxx/posts/how_to_install_gnu_icecat_on_debian_wheezy.html</link>
+  <guid>13</guid>
+  <pubDate>23 Apr 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>LibrePlanet 2013</title>
+  <description>A debrief on the LibrePlanet 2013 conference.</description>
+  <link>http://zachwick.xxx/posts/libreplanet_2013.html</link>
+  <guid>12</guid>
+  <pubDate>09 Apr 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Developers and FOSS</title>
+  <description>Some thoughts on developers that I encounter and their
+  relationship to free software.</description>
+  <link>http://zachwick.xxx/posts/developers_and_foss.html</link>
+  <guid>11</guid>
+  <pubDate>06 Feb 2013 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Owning Devices</title>
+  <description>What I think "owning" a device means, and where I tell
+  how many devices I actually own.</description>
+  <link>http://zachwick.xxx/posts/owning_devices.html</link>
+  <guid>10</guid>
+  <pubDate>04 Dec 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>The Evolution of My Dev Setup</title>
+  <description>A brief rundown on how my development setup has changed
+  over the years.</description>
+  <link>http://zachwick.xxx/posts/the_evolution_of_my_dev_setup.html</link>
+  <guid>9</guid>
+  <pubDate>14 Nov 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>An Update on 'A Day Using Only FOSS'</title>
+  <description>An update on trying to go a single day using only free software.</description>
+  <link>http://zachwick.xxx/posts/an_update_on_a_day_using_only_foss.html</link>
+  <guid>8</guid>
+  <pubDate>23 Sep 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Ann Arbor Give Camp 2012</title>
+  <description>A debrief on Ann Arbor Give Camp 2012.</description>
+  <link>http://zachwick.xxx/posts/ann_arbor_give_camp_2012.html</link>
+  <guid>7</guid>
+  <pubDate>20 Aug 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>A Day Using Only FOSS</title>
+  <description>I am going to try and go a single day using only free software.</description>
+  <link>http://zachwick.xxx/posts/a_day_using_only_foss.html</link>
+  <guid>6</guid>
+  <pubDate>29 Aug 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>I Hope to Someday Own a Monopoly</title>
+  <description>A slight rant on commercial entities.</description>
+  <link>http://zachwick.xxx/posts/i_hope_to_someday_own_a_monopoly.html</link>
+  <guid>5</guid>
+  <pubDate>30 Jul 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Why Don't Shipping Companies Have Better Delivery Estimates</title>
+  <description>I don't understand why shipping companies cannot
+  provide to the minute delivery estimates.</description>
+  <link>http://zachwick.xxx/posts/why_dont_shipping_companies_have_better_delivery_estimates.html</link>
+  <guid>4</guid>
+  <pubDate>12 Jul 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Using GNU/Linux == Assembling Your Own Ammunition</title>
+  <description>A parallel between GNU/Linux and ammunition assembly.</description>
+  <link>http://zachwick.xxx/posts/using_gnu_linux_==_assembling_your_own_ammunition.html</link>
+  <guid>3</guid>
+  <pubDate>12 Jul 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>What is This 'Sublime Text 2' Hullaballo?</title>
+  <description>Why re-invent the wheel? Emacs can do all of the same stuff.</description>
+  <link>http://zachwick.xxx/posts/what_is_this_sublime_text_2_hullaballo.html</link>
+  <guid>2</guid>
+  <pubDate>27 Jun 2012 00:00:00 -0500 </pubDate>
+ </item>
+
+ <item>
+  <title>Just Picked a Whole Bouqet of Oopsie Daisies</title>
+  <description>Holy Flying Spaghetti Monster, ZachWick's blog is dead,
+  long live ZachWick's blog!</description>
+  <link>http://zachwick.xxx/posts/just_picked_a_whole_bouquet_of_oopsie_daisies.html</link>
+  <guid>1</guid>
+  <pubDate>19 Jun 2012 00:00:00 -0500 </pubDate>
+ </item>
+
 </channel>
 </rss>
