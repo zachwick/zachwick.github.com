@@ -4,10 +4,18 @@
  <title>ZachWick's Development Playground</title>
  <description>Compute free or die; Death is not the worst of evils.</description>
  <link>http://zachwick.xxx/index.html</link>
- <lastBuildDate>Sat, 08 Feb 2014 10:00:00 -0500 </lastBuildDate>
+ <lastBuildDate>Wed, 26 Mar 2014 10:00:00 -0500 </lastBuildDate>
  <pubDate>Fri, 07 Feb 2014 00:00:00 -0500 </pubDate>
  <ttl>1800</ttl>
  
+ <item>
+   <title>LibrePlanet 2014</title>
+   <description>Some quick thoughts on LibrePlanet 2014</description>
+   <link>http://zachwick.xxx/posts/libreplanet_2014.html</link>
+   <guid>22</guid>
+   <pubDate>23 Mar 2013 00:00:00 -0500 </pubDate>
+ </item>
+
  <item>
   <title>My Newest Dev Setup</title>
   <description>An update on the hardware that I do work on.</description>
