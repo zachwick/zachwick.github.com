@@ -1,0 +1,159 @@
+<head>
+  <title>HTML and EME</title>
+  <style>
+	body {
+	  max-width: 800px;
+  	  margin: 50px auto;
+  	  font-family: sans-serif;
+  	  line-height: 1.5;
+	}
+	a {
+ 	  text-decoration: none; 
+	}
+	a:hover {
+ 	  text-decoration: underline; 
+	}
+	body > h2 {
+	  text-align: center;
+	}
+	body > div {
+	  margin: 0;
+  	  text-align: center;
+	}
+	body > ul > li {
+  	  display: block;
+  	  margin: 0;
+  	  list-style-type: none;
+  	  text-align: left;
+  	  font-weight: bold;
+	}
+	body > ul > li a {
+  	  margin-left: 10px;
+  	  font-weight: normal;
+	}
+  </style>
+</head>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://zachwick.com/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://zachwick.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+<body>
+  <h2>HTML and EME</h2>
+  <h3>204-05-18</h3>
+  <div>
+	<span><a href="../index.html">Home</a></span>
+	<span><a href="../pages/about.html">About</a></span>
+	<span><a href="../pages/project_list.html">Project Ideas</a></span>
+	<span><a href="../pages/key.html">Key</a></span>
+	<span><a href="../pages/rss_feed.xml">RSS Feed</a></span>
+	<span><a href="../pages/privacy.html">Privacy</a></span>
+  </div>
+  <p>
+	As much of the technical world is now aware, Mozilla has agreed to
+	put <a href="https://blog.mozilla.org/blog/2014/05/14/drm-and-the-challenge-of-serving-users/">HTML5
+	EME support in Firefox</a> via implementing a DRM scheme. I am
+	like many other Free Software folks who are very upset by the
+	Mozilla Foundation acting in a way that I see as against their
+	stated goals. Bradley Kuhn has a
+	great <a href="http://ebb.org/bkuhn/blog/2014/05/14/to-serve-users.html">post</a>
+	in which he argues that the Mozilla Foundation (either by enabling
+	the Mozilla Corporation, or by its own volition) by creating and
+	distributing DRM is acting against its charitable purpose as posed
+	to the IRS. After reading the documents that
+	bkuhn <a href="http://www-archive.mozilla.org/foundation/documents/">linked</a>
+	<a href="http://www-archive.mozilla.org/foundation/documents/mf-irs-501c3-application-attachment.pdf">to</a>,
+	the Mozilla Foundation's stated goals and their actions do appear
+	to be directly opposed.<br/><br/>
+	The two statements made by the Mozilla Foundation in their
+	IRS paperwork that I will draw on here are as follows:<br/><br/>
+	<b>From "Part II, Question 1: Part B. Background"</b><br/>
+	"Furture, some Web pages can be viewed solely on a certain type of
+	computer or with a specific Web browsing software. The use of such
+	non-standard technologies, often promoted by commercial software
+	developers and vendors who are eager to maintain a competitive
+	advantage, reduces the Web's universality and, consequently, limits
+	Internet access on those unable or unwilling to afford the commercial
+	technologies."<br/><br/>
+	<b>From "Part II, Question 1: Part D. Key Activies"</b><br/>
+	"The Foundation plans to engage in the following key activities in
+	pursuance of its exempt purpose:"<br/>
+	"(1) Facilitate the development of a web browser, e-main software and
+	other Internet software that (a) are open source, (b) implement open
+	standards, (c) are available free of charge to all Internet users
+	around the world, regardless of the make or model of computers they
+	use, the language they speak, or disabilities they may have, (d) are
+	developed in an open process in which any interested party
+	(individuals, government agencies, nonprofit organizations,
+	corporations) can contribute, and (e) are powerful and easy to
+	use."<br/>
+	...<br/>
+	"(5) Participate in Internet standards development efforts with the
+	focus of promoting standards that complement the Foundation's exempt
+	purpose (i.e., the availability of software to the general public
+	free-of-charge, regardless of the make or model of computers that they
+	use, the language they speak, or disabilities they may
+	have)."<br/><br/>
+	
+	Based on the quote from "Part B" above, we can clearly tell that
+	the Mozilla Foundation as it was when these forms were filed, knew
+	that DRM was not something that would advance the free and open
+	web. The fact that an organization behind a for-profit company was
+	willing to publically say that is a very big deal.<br/>
+	In the second quoted section above, the notable part is "(5)"
+	wherein the Mozilla Foundation states that they will work
+	promoting standards that complement the Mozilla Foundation's
+	stated goals. One of these goals is "the availability of software
+	to the general public free-of-charge, regardless of the make or
+	model of computers that use, the language they speak, or
+	disabilities they may have."<br/><br/>
+	<h3>Deconstructing that Goal</h3>
+	That sentence reads funny to me. Is the goal to make software
+	available free-of-charge to users no matter what computers they
+	use, language the speak, or their disablities? Meaning, for users
+	of GNU/Linux, OS X, or Windows the cost is $0; For speakers of
+	English, German, Spanish, etc. the cost is $0; etc. Or is the goal
+	"to make software available" that has the following
+	characteristics:<br/>
+	<ul>
+	  <li>is free-of-charge</li>
+	  <li>will work regardless of computer specifics</li>
+	  <li>will work regardless of language</li>
+	  <li>will work regardless of a user's disability</li>
+	</ul>
+	<br/>
+	If the correctly stated goal is the former, then the Mozilla
+	Foundation has by enabling DRM in Firefox acted completly in
+	accordance with their stated goals. If however, the later
+	clarification is correct, then the Mozilla Foundation has misled
+	many people for a long time, and is no longer even trying to act
+	as it claimed it would.<br/><br/>
+	I only use vanilla Firefox on my mobile phone, but now, I am
+	unsure if I even will continue doing that. On all of my other
+	machines, I use GNU IceCat and I would suggest that others do the
+	same.<br/>
+	I also suggest that others educate themselves on the HTML EME
+	fiasco, and on the Mozilla Foundation's latest news before jumping
+	to rash decisons.
+	<br/><br/>
+	<h3>Further Reading:</h3>
+	<ul>
+	  <li><a href="https://u.fsf.org/xj">https://u.fsf.org/xj</a></li>
+	  <li><a href="http://blog.gerv.net/2014/05/to-serve-users/#comment-41858">http://blog.gerv.net/2014/05/to-serve-users/#comment-41858</a></li>
+	  <li><a href="https://www.eff.org/deeplinks/2013/03/defend-open-web-keep-drm-out-w3c-standards">https://www.eff.org/deeplinks/2013/03/defend-open-web-keep-drm-out-w3c-standards</a></li>
+	  <li><a href="http://manu.sporny.org/2013/drm-in-html5/">http://manu.sporny.org/2013/drm-in-html5/</a></li>
+	  <li><a href="http://www.w3.org/blog/2013/10/on-encrypted-video-and-the-open-web/">http://www.w3.org/blog/2013/10/on-encrypted-video-and-the-open-web/</a></li>
+	  <li><a href="http://www.defectivebydesign.org/">http://www.defectivebydesign.org/</a></li>
+	</ul>
+  </p>
+</body>
