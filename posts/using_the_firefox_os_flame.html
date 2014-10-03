@@ -1,0 +1,192 @@
+<head>
+  <title>Using the FirefoxOS Flame</title>
+  <style>
+	body {
+	  max-width: 800px;
+  	  margin: 50px auto;
+  	  font-family: sans-serif;
+  	  line-height: 1.5;
+	}
+	a {
+ 	  text-decoration: none; 
+	}
+	a:hover {
+ 	  text-decoration: underline; 
+	}
+	body > h2 {
+	  text-align: center;
+	}
+	body > div {
+	  margin: 0;
+  	  text-align: center;
+	}
+	body > ul > li {
+  	  display: block;
+  	  margin: 0;
+  	  list-style-type: none;
+  	  text-align: left;
+  	  font-weight: bold;
+	}
+	body > ul > li a {
+  	  margin-left: 10px;
+  	  font-weight: normal;
+	}
+  </style>
+</head>
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://zachwick.com/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="http://zachwick.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+<body>
+  <h2>Using the FirefoxOS Flame</h2>
+  <h3>2014-10-03</h3>
+  <div>
+	<span><a href="../index.html">Home</a></span>
+	<span><a href="../pages/about.html">About</a></span>
+	<span><a href="../pages/project_list.html">Project Ideas</a></span>
+	<span><a href="../pages/key.html">Key</a></span>
+	<span><a href="../pages/rss_feed.xml">RSS Feed</a></span>
+	<span><a href="../pages/privacy.html">Privacy</a></span>
+  </div>
+  <p>
+	I have been using a Firefox OS Flame developer reference phone as
+	my daily driver for a couple of weeks now. I thought that it would
+	be a good time to publish my thoughts on the hardware and
+	software, and also comment on my first few days of developing for
+	FirefoxOS.<br/>
+	I first started using Firefox OS way back when
+	the <a href="https://developer.mozilla.org/en-US/Firefox_OS/Developer_phone_guide/ZTE_OPEN">ZTE
+	Open</a> became available in early 2013. I fell in love with the
+	idea of Firefox OS, most likely because it was so in step with my
+	"compute free or die" attitude (if you sidestep the issue of
+	mobile phones having proprietary media codecs and proprietary
+	baseband systems). Sadly, the ZTE-Open was only my daily driver
+	phone for a week or two because the hardware/software (Firefox OS
+	v1.0) required too much handholding for me at the time. I was
+	missing important calls/texts/emails due to software bugs and hard
+	resets, and for quite a while I had a notification that I could
+	never clear and a notification tray that I could not open. Because
+	of that, the ZTE-Open got regulated to a shelf in my shop where I
+	would occasionally pull it out and putter around developing for
+	it, but it never made it back into my pocket for longer than a
+	week or so. I did talk
+	to <a href="http://fossetcon.org/2014/speakers/robert-call">Bob
+	Call</a> who was also using a ZTE-Open, but he didn't seem to have
+	the same issues that I was (probably because he is used to working
+	on things like the ZTE-Open)<br/><br/>
+	I saw the announcement of the Flame developer reference phone, but
+	didn't pre-order one because of my experience with the
+	ZTE-Open. It was only after I
+	heard <a href="http://christianheilmann.com/">Christian
+	Heilmann</a> speak at IoTCon 2014 in Berlin, Germany (I attended
+	both of his talks) that I decided to get a Flame
+	phone. Christian's first talk was about the "Mobile Web" and how
+	it can be a common platform across many devices. His second talk
+	was specifically about Firefox OS and its current state.<br/><br/>
+	I was once again hooked.<br/><br/>
+	I ordered a Flame phone the day that I got home, and have been
+	using and abusing it since it arrived a few days later.<br/>
+	My Flame came with Firefox OS v1.3 on it. The improvements over
+	v1.2 (which I was able to compile and flash onto the ZTE-Open
+	myself) were phenomenal. I wasn't missing calls, texts, or emails
+	and with the exception of a <a href="http://pump.io">PumpIO</a>
+	client, there were apps for everything that I wanted. The Flame
+	replaced a Nexus 5 and met the standard of reliablity that the
+	Nexus had set. My wife started using the Nexus 5, so now I had to
+	be careful about hacking too deep on the Flame because there was
+	no going back.<br/><br/>
+	<h3>The Software</h3>
+	I flashed the Firefox OS v2.0 base image later that
+	first week and was once again blown away by the software. In v2.0,
+	the homescreen scrolls vertically and scrolling horizontally
+	switches between open apps. Just as the change from iOS to Android
+	made me love the paradigm of the back button (I know, I used to be
+	an iOS guy), this switch to the crazy Firefox OS scrolling has me
+	convinced that it is a better user experience. The only part of
+	this new scrolling experience that still strikes me as weird is
+	that when browsing the internet, opening a link in a new tab both
+	creates the new tab as a new horizontal scrolling target and
+	pushes me to it. I don't mind the new scrolling target, but I wish
+	that there was an option to not automatically navigate me to the
+	new tab (there may be, but I haven't found it).<br/>
+	I then flashed a nightly build and set the phone to do OTA updates
+	from the nightly build tree. This was pretty scary for the first
+	few days since I had no other phone to fall back to (other than
+	the ZTE-Open of course) but now I sleep easy knowing that the
+	morning's update will be just fine.<br/>
+	The only outstanding software issue that is really annoying is
+	that sometimes when I receive a call, when I answer the call the
+	vibration and ringing stop. But then as soon as I hang up (1 or 30
+	minutes later) the phone keeps vibrating as if I am receiving a
+	call. Everything else works just fine at these times - I can use
+	apps, send texts, whatever, but the phone is just constantly
+	vibrating. Putting the phone to sleep doesn't stop the vibration,
+	but restarting it does. This doesn't happen every call, maybe only
+	about one in seven, but it still pretty annoying.<br/><br/>
+	<h3>The Hardware</h3>
+	The ZTE-Open hardware always felt cheat to me. The Flame is
+	<a href="https://hacks.mozilla.org/2014/05/flame-firefox-os-developer-phone/">billed
+	as</a> "representative of the mid-tier phone hardware Mozilla and
+	its partners are targeting over the coming year". I think that if
+	the Flame is "mid-tier" I think that if there is ever a "high-end"
+	device, it it going to blow the competition out of the water. The
+	phone has enough weight to it that it doesn't feel cheap and
+	skimpy. I have never seen it get bogged down and sluggish and it
+	has weathered many tumbles off of my workbench without so much as
+	a scratch.<br/>
+	The back of the case is a smooth rubber-ish/matte material that
+	seems to attract sawdust, pocket lint, and dust, but it may just
+	be that I am often covered in those things myself.<br/>
+	The screen is a 4.5in screen (FWVGA 854×480 pixels) and is quite
+	useable in direct sunlight. The screen also feels very responsive
+	to touch events with is a wonderful improvement over the ZTE-Open
+	where I often felt like I had to really press hard to get events
+	to register.<br/><br/>
+	<h3>The Development Ecosystem</h3>
+	I haven't made any Firefox OS apps that are more than a few steps
+	above trivial, but I really like the
+	ecosystem. The <a href="https://developer.mozilla.org/en-US/Firefox_OS/Using_the_App_Manager">
+	App Manager</a> is very impressive. It uses adb to connect to the
+	Flame and provides a nice place to modify the app's manifest,
+	install the app on the phone, and debug the app on the phone. The
+	App Manager is being replaced with the WebIDE from Firefox 34 on,
+	but as I only use GNU Icecat and Debian Iceweasel, I haven't tried
+	it out yet.<br/>
+	Because Firefox OS apps are just HTML5 apps, developers are free
+	to use whatever tooling they so choose. And because apps are just
+	JS, CSS, and some HTML, any tool set is very easy to set
+	up. Personally I use Emacs + Grunt as my web development tool
+	set. Granted, I use Emacs + whatever as my tool set for any
+	development. Mozilla has a bunch
+	of <a href="https://developer.mozilla.org/en-US/Apps/Reference_apps">reference
+	apps</a> where you can see various techniques for using the web
+	API present in Firefox OS, and there is a
+	decent <a href="https://developer.mozilla.org/en-US/Apps/Quickstart">tutorial</a>
+	if reading code doesn't do much for you.<br/>
+	I have begun work on a non-trivial open web app that I intend on
+	running (and using) on my Flame phone - an HTML5 Emacs clone. So
+	far, it is going well and I will surely humblebrag/post about it
+	once it has a minimal feature set. I am sure that I will also have
+	a post specifically about developing for Firefox OS.<br/><br/>
+	<h3>Final Thoughts</h3>
+	Do I like the Flame? Yes<br/>
+	Knowing what I know now, would I get one again? Yes<br/>
+	Would I reccomend that others get one? Eh, maybe. If you aren't
+	getting a Flame to hack on, then it would behoove you to look at
+	the Firefox Marketplace and see if there are apps there for
+	everything that you want.<br/>
+	I really like the Flame, and barring any catastrophes, I expect
+	that it will be my daily drive phone for a long long time.
+  </p>
+</body>

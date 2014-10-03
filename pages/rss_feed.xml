@@ -4,9 +4,19 @@
  <title>ZachWick's Development Playground</title>
  <description>Compute free or die; Death is not the worst of evils.</description>
  <link>https://zachwick.com/index.html</link>
- <lastBuildDate>Wed, 26 Mar 2014 10:00:00 -0500 </lastBuildDate>
+ <lastBuildDate>Fri, 03 Oct 2014 10:00:00 -0500 </lastBuildDate>
  <pubDate>Fri, 07 Feb 2014 00:00:00 -0500 </pubDate>
  <ttl>1800</ttl>
+
+ <item>
+   <title>Using the FirefoxOS Flame</title>
+   <description>My experiences using the Flame phone as my daily
+   driver</description>
+   <link>https://zachwick.com/posts/using_the_firefox_os_flame.html</link>
+   <guid>24</guid>
+   <pubDate>03 Oct 2014 00:00:00 -0500 </pubDate>
+ </item>
+
 
  <item>
    <title>HTML and EME</title>
