@@ -1,0 +1,35 @@
+Using GNU/Linux == Assembling Your Own Ammunition
+2012-07-12
+
+The reasons that I use GNU/Linux (and only software that is free as in
+freedom on my personal machines) are probably much different than the
+reasons that you do. I use GNU/Linux and FOSS software because I
+believe that you don't truly own a piece of technology until you
+understand how it works, and have the freedom to do whatever you wish
+with that technology. Also, I really really really really like the
+fine-grained control over how each piece of my technology operates.
+
+I recently had the epiphany that I pack/assemble my own ammunition for
+my guns (cue crazy gun-totting American comments) for the same
+reason. I am forced to understand the mechanics of how my guns
+function (which is pretty straight-forward) and I am given
+fine-grained (pun intended) control over how the gun will function
+each and every time that I use/fire it.
+
+Upon having this epiphany, I starting thinking about other apects of
+my life where my beliefs in/about Free Software are applicable. The
+results were quite numerous:
+        - I prefer to work on my own car rather than having somebody else do it
+        - I love cooking by taking an existing recipe and adapting it
+        - Almost every mechanical thing that I own I have repaired instead of replaced
+        - I grow most of my own vegetables
+        - I brew my own beer
+And whats more is that I take pleasure in doing these things - which
+is more important that any other benefit. If fiddling, tweaking,
+breaking, and fixing aren't in your bag of skills and desires, that is
+fine. I am not advocating that everybody _needs_ to free software, or
+pack their own ammunition, or brew their own beer, or grow their own
+veggies. I am simply advocating the opinion that if you can't fix it
+and then repair it, then no matter what you think, that technology
+owns you completely.
+

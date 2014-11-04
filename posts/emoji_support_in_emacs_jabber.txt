@@ -1,0 +1,40 @@
+Emoji Support in Jabber.el
+2013-10-21
+
+I use Emacs for almost everything on my computers from text editing,
+email, IRC, Jabber/XMPP, to web browsing. With regard to IRC and
+Jabber/XMPP, I tend to converse with quite a few people who like
+to use Emoji. If you can't get these people to use their command
+of the written word to get their point across, here is a little
+hack to get jabber.el, an Emacs Jabber/XMPP client to display
+Emoji correctly.
+
+Configuration
+-------------
+Assuming that you have jabber.el installed and configured to
+connect to your Jabber/XMPP server(s) of choice, it is pretty
+straight forward.
+First, install the Symbola TTF font on your machine. On my
+Parabola GNU/Linux box, I do that with `pacman -S
+symbola-ttf`. Then inside of Emacs, do `M-x customize-group` and
+enter `jabber-chat` as the group name.
+Next, locate the "Jabber Chat Text Foreign" section. This section
+deals with the font-face to use for text that other's send you. In
+that section, simply change to "Font Family" option to
+`Symbola`. Then make sure to apply and/or save your new
+configuration.
+
+Using the Configuration
+-----------------------
+Your Emacs should now display all incoming chat text using the
+Symbola font face and render Emoji correctly without any
+additional tweaking. This is a quick and dirty hack to get Emoji
+support, but if you can bear having two different fonts in the
+same chat buffer, then this may be just what you are looking for.
+
+Acknowledgements
+----------------
+Kudos to T. Hunter and his post[0] for his initial insight into using
+Symbola for Emoji support.
+
+[0] http://thomashunter.name/blog/enable-emoji-fonts-on-debian-ubuntu-mint-linux/

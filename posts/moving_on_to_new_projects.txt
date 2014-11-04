@@ -1,0 +1,35 @@
+Moving On to Other Projects
+2013-10-23
+
+A week ago today, I gave my notice at Barracuda Networks where I
+have been employed for the last seventeen months; My last day
+hacking on Copy.com[0] will be this Friday. I am leaving Copy for one
+reason: The role that I had there was not one that would keep me
+happy, feeling fulfilled, and be constantly forcing me to improve my
+craft. Hacking on Copy has been a by-and-large positive experience.
+
+In my tenure there I honed my skills and learned how
+to operate in a corporate environment (something that I had never
+experienced before). I really do think that Copy is a great
+product and the people working on it are incredible - I see big
+things in Copy's future and I am kind of sad that I will miss out
+on experiencing them firsthand. When I started working on the Copy
+web app, it was very very barebones. I helped flesh out its
+initial feature set, and then worked on implementing new features
+and participated in the team growing and growing. I think that I
+was number seven-ish on the Copy team, and am leaving a team of twenty
+nine not counting myself. The Copy account that I created on my
+first day has a user id in the tens of thousands (lots of early
+test accounts I guess) and now Copy has over two million active
+users.
+I will miss my Copy coworkers, and I wish them well. I plan on
+focusing on getting the projects in my idea list implemented, so
+look for those to appear on Github[1] and/or my personal site[2].
+
+To the Copy folks that may end up seeing this, I have only this to
+say:
+    So long, and thanks for all the fish.
+
+[0] https://copy.com
+[1] https://github.com/ZachWick
+[2] https://zachwick.com

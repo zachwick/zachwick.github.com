@@ -1,0 +1,13 @@
+Just Picked a Whole Bouquet of Oopsie Daisies
+2012-06-19
+
+As you can see, zachwick.com is experiencing some technical
+difficulties right now. In the process of trying to clean up my
+Linode, I accidentally nuked it completely. Luckily, all of my code
+repos live on Github, and this seems a good as time as any to jump
+into static bloggin with Jekyll feet first!
+
+The ArduPhone project is still going strong too! I am in the process
+of rewriting my singleton functions as classes in a library. That
+being so, there is lots of changes happening in the APKeypad and
+ArduPhone repos - be aware if you are hacking on them.

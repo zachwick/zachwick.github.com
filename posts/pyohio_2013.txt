@@ -1,0 +1,30 @@
+PyOhio 2013
+2013-08-05
+
+Two weeks ago I attended PyOhio 2013 - It was freaking awesome! I
+had high hopes for PyOhio as the last conference that I attended
+was LibrePlanet (which was also fantastic), and PyOhio did not
+fail to deliver.
+
+In addition to listening to some really cool talks, I got to give
+a (hopefully cool) talk on what I work on all day - Copy.com. The
+talks that were presented were on a wide array of Python-centric
+topics and ranged from "novice" to "expert" in subject
+matter.
+The people at PyOhio were just as interesting as the talks. I met
+one guy from LightSide, who is doing text analysis on student's
+papers. I met another guy who is a developer on Firefox for
+Android and picked his brain on porting GNU Icecat to
+Android. There was another guy that I met who works for Canonical
+on one of their webapps - It was great to trade "war stories" and
+talk shop.
+
+My talk on a Python FUSE layer for Copy.com went rather well, and
+for interested people, there is a video posted at PyVideo[0] and
+YouTube[1].
+
+I will definitely be going to PyOhio 2014, and will even try to
+come up with an exciting Python project to talk about.
+
+[0] http://pyvideo.org/video/2271/python-fuse
+[1] https://www.youtube.com/watch?v=DpvdOuTzOU0

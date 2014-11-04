@@ -1,0 +1,72 @@
+What Don't Shipping Companies Have Better Delivery Estimates?
+
+2012-07-12
+
+Disclaimer
+----------
+1. This post is based on my last experience with UPS, but I am
+sure that it applies to other shipping/delivery companies as
+well.
+2. I really like UPS and will continue to use them - this post is
+not intended as a bash on an otherwise decent company.
+3. I don't know what kind of logistical data UPS keeps/has. Below
+follows from only my own suppositions.
+
+The data is already there
+-------------------------
+It is probably safe to assume that UPS knows exactly which
+packages are on which truck, the route that each truck is to take,
+and expected route start and end times. It is also probably safe
+to assume that the current location of each truck is easily
+discernable. If each truck is not explicitly tracked by GPS, then
+by keeping track of when each package is delivered a reasonable
+location can be inferred. Combine these data with traffic data
+from Google and it would be fairly straight forward to give a very
+precise delivery time estimate.
+
+So why don't they do it already?
+--------------------------------
+I can see already that this might be a gray area in the Google
+Maps API ToS. I see in them that there is a distinction of Google
+Maps API for Business and the normal API. From what my cursory
+read-through uncovered, since I can track any UPS package without
+needing to login or be behind a paywall, it would seem that the
+normal API could be used. If I were making this service, I would
+still have a lawyer check out my reasoning. So maybe the cost of
+realtime traffic data is prohibitive. The service that I am
+proposing is still technologically viable because traffic data was
+just icing on the cake - without it, a reasonable 10min delivery
+window could still be generated.
+
+Also, just the sheer volume of packages handled by UPS each day
+might make this service very resource heavy. I will argue though
+that if UPS can handle those logistics internally, it shouldn't be
+too difficult to present those logistics externally.
+
+Or maybe there isn't enough monetary value in this to make it
+worthwhile.
+
+Wouldn't this be an awesome project to work on?
+-----------------------------------------------
+I think that this would be an awesome project to work on. Every
+single person that ships a package sits there at their computer
+clicking and clicking the refresh button on the tracking page. If
+this service was implemented, they could go the the tracking site
+once and see that their package would arrive "between 9:30AM -
+9:40AM Tomorrow."
+Even from a technological view this project would be amazing -
+Real-time data analysis and visualization. A public facing API
+could be built and then there could be smartphone apps that alert
+you when the truck that your package is on is at your house (or
+inadvertently delayed) so you could rest easy knowing that your
+package is on its way. 
+
+Closing Note:
+-------------
+I would drop everything to work on this project - I mean that. If
+there is a shipping/delivery company that wants to build something
+like this, I would absolutely love to work on it. I could see this
+service being a good threshold for a consumer shipping company to
+get into time sensitive deliveries. I could also see this being a
+semi-passive income site that acts as a third-party package
+tracking service.

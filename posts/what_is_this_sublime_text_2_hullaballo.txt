@@ -1,0 +1,43 @@
+What is This 'Sublime Text 2' Hullaballo?
+2012-06-27
+
+With the release of Sublime Text 2.0 here in the last few days, I
+thought that now would be an appropriate time to write out my reasons
+for why I won't switch to Sublime Text.
+I have a few co-workers who use Sublime Text. This means that my
+exposure to ST is limited to watching people who do the same things
+that I do use it; So comparing my workflow with theirs, I am
+flabbergasted that they swear by ST.
+
+Minimap
+-------
+When I watch these guys hack away in ST, the first cool feature that I
+see is the minimap of the current file. This is a sweet feature - the
+bird's eye view of a large file can be extremely helpful at
+times. However, this feature doesn't sell me on ST. I have minimaps of
+files in Emacs using minimap.el. After adding the Emacs Lisp file to
+your load-path, it is three simple lines of Elisp to bind the
+'minimap-create' and 'minimap-kill' to any key combo that you want.
+
+Quick Step Next
+---------------
+This feature is really cool and has the potential to save you lots of
+time. However, its inclusion in Sublime Text 2.0 is not the first
+instance this ability existing. I can do the same thing, editing
+multiple lines simultaneously, using the rectangle commands built into
+Emacs (C-x r other_keys).
+
+Conclusion
+----------
+Everybody has their editor of choice that has the feature set that
+they are looking for. My choice of editor is Emacs, and I have yet to
+see a reason to leave Emacs for any other editor.
+
+Addendum
+--------
+Additionally, Emacs has a terminal editor, a text-based web browser,
+and an email client that come with it. I don't have to mentally or
+physically leave Emacs (or my beloved key bindings) all day - I am
+sure that this increases my productivity by some non-trivial amount.
+
+[0] http://www.emacswiki.org/emacs/MiniMap
