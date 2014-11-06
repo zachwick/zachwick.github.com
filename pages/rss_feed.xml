@@ -8,6 +8,14 @@
  <pubDate>Fri, 07 Feb 2014 00:00:00 -0500 </pubDate>
  <ttl>1800</ttl>
 
+  <item>
+   <title>Using Colemak on the FirefoxOS Flame</title>
+   <description>How to get the Colemak keyboard layout on a FirefoxOS device</description>
+   <link>https://zachwick.com/posts/using_Colemak_on_the_firefox_os_flame.html</link>
+   <guid>25</guid>
+   <pubDate>06 Nov 2014 00:00:00 -0500 </pubDate>
+ </item>
+ 
  <item>
    <title>Using the FirefoxOS Flame</title>
    <description>My experiences using the Flame phone as my daily
@@ -16,7 +24,6 @@
    <guid>24</guid>
    <pubDate>03 Oct 2014 00:00:00 -0500 </pubDate>
  </item>
-
 
  <item>
    <title>HTML and EME</title>
