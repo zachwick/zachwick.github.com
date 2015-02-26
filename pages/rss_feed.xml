@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
- <title>ZachWick's Development Playground</title>
+ <title>zachwick's Development Playground</title>
  <description>Compute free or die; Death is not the worst of evils.</description>
  <link>https://zachwick.com/index.html</link>
  <lastBuildDate>Fri, 03 Oct 2014 10:00:00 -0500 </lastBuildDate>
@@ -216,8 +216,8 @@
 
  <item>
   <title>Just Picked a Whole Bouqet of Oopsie Daisies</title>
-  <description>Holy Flying Spaghetti Monster, ZachWick's blog is dead,
-  long live ZachWick's blog!</description>
+  <description>Holy Flying Spaghetti Monster, zachwick's blog is dead,
+  long live zachwick's blog!</description>
   <link>https://zachwick.com/posts/just_picked_a_whole_bouquet_of_oopsie_daisies.html</link>
   <guid>1</guid>
   <pubDate>19 Jun 2012 00:00:00 -0500 </pubDate>
