@@ -1,0 +1,18 @@
+Project Idea List
+Last Updated: 2015-02-20
+
+In no particular order, below are some of my ideas for things that
+would like t; make (or might have even started already).
+
+- Arduino NRF24L01 Shields with configurable CS pin
+- Control CrazyFlie Nano with a TI Chronos EZ430 watch
+- Network graph view of ADN/Twitter connections
+- Personal Activity Log to keep track of minute-by-minute activity
+- Raspberry Pi/Arduino based home automation
+- 3D Printer
+- CNC Mill
+- Automatic irrigation system
+- Per socket/circuit power usage monitoring
+- JavaScript engine
+- Custom Dromida Kodo controller
+- Linux From Scratch development machine image
