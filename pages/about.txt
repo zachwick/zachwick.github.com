@@ -14,52 +14,52 @@ A full list can be found on https://github.com/zachwick/
   plink - a python ncurses web browser
 
 Employment:
-    Bareo
-        Co-Founder
-		2014-10 - Present
-		https://bareo.io/
+  Bareo
+    Co-Founder
+    2014-10 - Present
+    https://bareo.io/
 
-    AMF-Nano
-        Firmware Engineer Contractor
-        2014-03 - 2014-10
-        http://amfnano.com/
+  AMF-Nano
+    Firmware Engineer Contractor
+    2014-03 - 2014-10
+    http://amfnano.com/
 
-    Roost Technology
-        Co-Founder & Lead Engineer
-        2013-11 - Present
+  Roost Technology
+    Co-Founder & Lead Engineer
+    2013-11 - Present
 
-    IOSiX
-        Embedded Systems Contractor
-		2013-11 - 2014-03
-		http://iosix.com/
+  IOSiX
+    Embedded Systems Contractor
+    2013-11 - 2014-03
+    http://iosix.com/
 
-    Barracuda Networks
-        Software Engineer
-        2012-05 - 2013-11
-        https://barracuda.com/
+  Barracuda Networks
+    Software Engineer
+    2012-05 - 2013-11
+    https://barracuda.com/
 
-    LectureTools LLC
-        Software Engineer & Front-End Evangelist
-        2011-01 - 2012-05
-		http://lecturetools.com/
+  LectureTools LLC
+    Software Engineer & Front-End Evangelist
+    2011-01 - 2012-05
+    http://lecturetools.com/
 
-    Su Cara LLC
-        Co-Founder & CTO
-        2010-12 - 2011-12
+  Su Cara LLC
+    Co-Founder & CTO
+    2010-12 - 2011-12
 
-    Mobile Sign Language Systems
-        App Developer
-		2010-08 - 2011-02
+  Mobile Sign Language Systems
+    App Developer
+    2010-08 - 2011-02
 
-    Saagara LLC
-        iOS Developer
-        2010-08 - 2011-01
+  Saagara LLC
+    iOS Developer
+    2010-08 - 2011-01
 
 Education:
-    University of Toledo
-        BS in Mathematics (Concentration in Pure Mathematics)
-        2008 - 2010
+  University of Toledo
+    BS in Mathematics (Concentration in Pure Mathematics)
+    2008 - 2010
 
-    Bowling Green State University
-        Post-Secondary Enrollment Student
-        2006 - 2008
+  Bowling Green State University
+    Post-Secondary Enrollment Student
+    2006 - 2008
