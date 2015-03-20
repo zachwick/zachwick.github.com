@@ -1,0 +1,65 @@
+About zachwick
+Last Updated: 2015-02-20
+
+A Developer and avid outdoorsman. Also a technophile who is prone to
+bouts of Luddite-ness. A developer and believer in free (as in
+freedom) software. Generally paranoid about Big Brother watching.
+
+Projects:
+A full list can be found on https://github.com/zachwick/
+
+  wmm - a lightweight window manager for X11
+  ArduPhone - an Arduino based cell phone
+  Copy.com - a cross-platform file sharing/syncing application
+  plink - a python ncurses web browser
+
+Employment:
+    Bareo
+        Co-Founder
+		2014-10 - Present
+		https://bareo.io/
+
+    AMF-Nano
+        Firmware Engineer Contractor
+        2014-03 - 2014-10
+        http://amfnano.com/
+
+    Roost Technology
+        Co-Founder & Lead Engineer
+        2013-11 - Present
+
+    IOSiX
+        Embedded Systems Contractor
+		2013-11 - 2014-03
+		http://iosix.com/
+
+    Barracuda Networks
+        Software Engineer
+        2012-05 - 2013-11
+        https://barracuda.com/
+
+    LectureTools LLC
+        Software Engineer & Front-End Evangelist
+        2011-01 - 2012-05
+		http://lecturetools.com/
+
+    Su Cara LLC
+        Co-Founder & CTO
+        2010-12 - 2011-12
+
+    Mobile Sign Language Systems
+        App Developer
+		2010-08 - 2011-02
+
+    Saagara LLC
+        iOS Developer
+        2010-08 - 2011-01
+
+Education:
+    University of Toledo
+        BS in Mathematics (Concentration in Pure Mathematics)
+        2008 - 2010
+
+    Bowling Green State University
+        Post-Secondary Enrollment Student
+        2006 - 2008

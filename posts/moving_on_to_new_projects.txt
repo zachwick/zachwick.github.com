@@ -31,5 +31,5 @@ say:
     So long, and thanks for all the fish.
 
 [0] https://copy.com
-[1] https://github.com/ZachWick
+[1] https://github.com/zachwick
 [2] https://zachwick.com
